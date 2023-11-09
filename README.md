@@ -7,7 +7,7 @@
 
 ---
 
-### Tools/ Language in this project: 
+### Tools/ Languages in this project: 
 - Jupyter
 - Python
 - Markdown
