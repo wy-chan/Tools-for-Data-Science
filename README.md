@@ -88,5 +88,5 @@
 
 ---
 
-<span Align="center"> - <a href="#top">Back to Top</a> - </span>
+<span align="center"> - <a href="#top">Back to Top</a> - </span>
 
